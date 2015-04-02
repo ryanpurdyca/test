@@ -7,5 +7,35 @@ html{
 }
 
 .header-box{
-  background-color: red:
+  width: 100%;
+  margin-top;
+  padding: 50px 0px 75px 0px;
+  background-image: url("../images/waves.png");
+  background-size: 100px auto;
+}
+
+h1{
+  position: absolute;
+  width: 50%;
+  right: 19.5%;
+}
+
+.header-content{
+  position: relative;
+  width: 320px;
+  margin: 0 auto;
+}
+
+.Beetle{
+  position: absolute;
+  width: 30%;
+  top: -2.4em;
+  left: -12%;
+}
+
+.Beetle2{
+  position: absolute;
+  width: 30%;
+  top: -2.4em;
+  right: -12%;
 }
