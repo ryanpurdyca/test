@@ -49,6 +49,27 @@ h1{
   right: -12%;
 }
 
+nav{
+  float: left;
+  overflow: hidden;
+  width: 100%;
+}
+
+nav ol{
+  margin: 0;
+  overflow: hidden;
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li{
+  float:left;
+  width: 25%;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
 .dirt{
   position: relative;
   width: 100%;
